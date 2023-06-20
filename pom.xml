@@ -26,15 +26,7 @@
 	    	<version>${log4j2.version}</version>
 	  	</dependency>
    </dependencies>  
-   <distributionManagement>
-	          <distributionManagement>
-                  <artigo-boas-praticas-medium>
-                  <id>artigo-boas-praticas-medium</id>
-                  <name>artigo-boas-praticas-medium</name>
-                  <url>https://github.com/NAVEEN042001/artigo-boas-praticas-medium</url>
-                  <artigo-boas-praticas-medium>
-                  <distributionManagement>			  
-</distributionManagement>
+   
    <build>
   		<finalName>artigo-boas-praticas-medium</finalName>
     	<plugins>
