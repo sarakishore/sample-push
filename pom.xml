@@ -25,8 +25,16 @@
 	    	<artifactId>log4j-core</artifactId>
 	    	<version>${log4j2.version}</version>
 	  	</dependency>
-   </dependencies>
-   
+   </dependencies>  
+   <distributionManagement>
+	          <distributionManagement>
+                  <repository>
+                  <id>repository-id</id>
+                  <name>Repository Name</name>
+                  <url></url>
+                  </repository>
+                  <distributionManagement>			  
+</distributionManagement>
    <build>
   		<finalName>artigo-boas-praticas-medium</finalName>
     	<plugins>
