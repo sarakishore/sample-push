@@ -28,11 +28,11 @@
    </dependencies>  
    <distributionManagement>
 	          <distributionManagement>
-                  <repository>
-                  <id>repository-id</id>
-                  <name>Repository Name</name>
-                  <url></url>
-                  </repository>
+                  <artigo-boas-praticas-medium>
+                  <id>artigo-boas-praticas-medium</id>
+                  <name>artigo-boas-praticas-medium</name>
+                  <url>https://github.com/NAVEEN042001/artigo-boas-praticas-medium</url>
+                  <artigo-boas-praticas-medium>
                   <distributionManagement>			  
 </distributionManagement>
    <build>
